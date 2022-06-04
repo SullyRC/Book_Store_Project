@@ -1,0 +1,6 @@
+Book,The Hunger Games,Suzanne Collins,6.99,16,true,374
+DVD,The Hunger Games,Francis Lawrence,7.99,10,Action,84
+CD,Dark Side of the Moon, Pink Floyd,19.99,3,true,0.75
+DVD,The Bee Movie,Simon J Smith,4.99,2,Art,100
+Book,Harry Potter,J.K. Rowling,6.99,30,true,223
+DVD,Harry Potter,Chris Columbus,6.99,5,Action,81
